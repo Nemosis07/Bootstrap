@@ -1,0 +1,33 @@
+
+body {
+    font: 20px arial, sans-serif;
+}
+
+.navbar {
+    background-color: rgba(73, 69, 65, 0.897);
+}
+
+.por-que-o-projeto {
+    background-color: white;
+    color: black;
+}
+
+.margin {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.si {
+    background-color: grey;
+    color: black
+}
+
+.oqc {
+    background-color: white;
+    color: black
+    
+}
+
+.bg-footer {
+    background-color: orange;
+}
